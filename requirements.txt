@@ -1,3 +1,4 @@
-discord
-discord.py
-bs4
+Required libraries/imports for python code:
+1. discord
+2. urllib.request
+3. from bs4, BeutifulSoup
